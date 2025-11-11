@@ -17,6 +17,11 @@ Este es un programa sencillo en Python para llevar una bitácora personal. Permi
 - `bitacora.py`: Código fuente del programa.
 - `bitacora.txt`: Archivo donde se guardan las entradas.
 
+## Aprendizajes
+- Manejo de archivos `.txt`
+- Estructuras de control
+- Funciones en Python
+
 ## Autor
 
 Rommel Briones
